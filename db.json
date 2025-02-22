@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "无线蓝牙耳机",
+      "price": 199,
+      "rating": 4.5,
+      "features": ["降噪", "30小时续航", "IPX5防水"],
+      "sales_last_month": 1500
+    },
+    {
+      "id": 2,
+      "name": "运动型耳机Pro",
+      "price": 299,
+      "rating": 4.8,
+      "features": ["骨传导", "40小时续航", "IP68防水"],
+      "sales_last_month": 800
+    }
+  ]
+}
